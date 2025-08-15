@@ -1,0 +1,71 @@
+.manageWrapper {
+  padding: 0 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+  font-size: 50px;
+  margin-bottom: 50px;
+  color: #122747;
+}
+
+.addButton {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 6px;
+    transition: all .3s ease;
+}
+
+.addButton:hover {
+  background-color: #0056b3;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 20px;
+  max-width: 600px;
+}
+
+.form input {
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.buttonGroup {
+  display: flex;
+  gap: 10px;
+}
+
+.buttonGroup button {
+  padding: 10px 16px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.buttonGroup button:first-child {
+  background-color: #28a745;
+  color: white;
+  transition: all 0.3s ease;
+}
+.buttonGroup button:first-child:hover {
+  background-color: #1b7731;
+}
+
+.buttonGroup button:last-child {
+  background-color: #dc3545;
+  color: white;
+  transition: all 0.3s ease;
+}
+.buttonGroup button:last-child:hover {
+  background-color: #9f2834;
+}
