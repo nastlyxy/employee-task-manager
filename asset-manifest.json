@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/employee-task-manager/static/css/main.05258586.css",
+    "main.js": "/employee-task-manager/static/js/main.0e2fe7ec.js",
+    "static/media/logo.png": "/employee-task-manager/static/media/logo.fce90dc10e23d1e73168.png",
+    "index.html": "/employee-task-manager/index.html",
+    "main.05258586.css.map": "/employee-task-manager/static/css/main.05258586.css.map",
+    "main.0e2fe7ec.js.map": "/employee-task-manager/static/js/main.0e2fe7ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05258586.css",
+    "static/js/main.0e2fe7ec.js"
+  ]
+}
